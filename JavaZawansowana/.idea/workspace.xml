@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c039bd9e-4cf3-4382-a6d3-06368d5d3e1e" name="Default Changelist" comment="java pay methody">
+      <change afterPath="$PROJECT_DIR$/../GitGroup/TestGit" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaCollections/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaCollections/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaCollections/src/Kolekcje/MainList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/Motorowka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Payment/CreditCardGatewaqy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Payment/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Payment/OrderLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Payment/PaymentGetway.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Payment/PaymentGetwayException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Payment/PaymentGetwey2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Payment/Paymentmetody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Payment/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zajecia2dziedziczenie/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zajecia2dziedziczenie/Elephant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zajecia2dziedziczenie/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zajecia2dziedziczenie/Parrot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ZooKolekcje/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ZooKolekcje/ELEPHANT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ZooKolekcje/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ZooKolekcje/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ZooKolekcje/Parrot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ZooKolekcje/Zoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wyjatkiTryCatch/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wyjatkiTryCatch/calculate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zajecia1/newroom/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zajecia1/newroom/NewRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zajecia1/samochodDoGierki/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zajecia1/samochodDoGierki/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zajecia1/samochodDoGierki/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zajecia1/samochodDoGierki/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zajecia1/samochodDoGierki/Track.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zajecia1/samochodDoGierki/Wheel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaZawansowana1b/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaZawansowana1b/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaZawansowana1b/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaZawansowana1b/JavaZawansowana1b.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectjavazawansowana1c/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectjavazawansowana1c/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectjavazawansowana1c/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectjavazawansowana1c/src/staticExaple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zabawa1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zabawa1/src/zabawa1a/HelloWorld1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zabawa1/src/zabawa1b/Zamienne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zabawa1/src/zabawa1c/Metody.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1285390211">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.65" value="1" />
+          <entry key="project.open.time.70" value="1" />
+          <entry key="project.open.time.94" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="JAVA/Payment" value="1" />
+          <entry key="java" value="69" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="69" />
+          <entry key="UML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="22" />
+          <entry key="java" value="8700" />
+          <entry key="txt" value="235" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="8700" />
+          <entry key="PLAIN_TEXT" value="257" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/zajecia1/modelowanie1.java" />
+        <option value="$PROJECT_DIR$/src/zajecia1/NewRoom.java" />
+        <option value="$PROJECT_DIR$/src/zajecia1/newroom/NewRoom.java" />
+        <option value="$PROJECT_DIR$/src/zajecia1/newroom/Main.java" />
+        <option value="$PROJECT_DIR$/src/zajecia1/samochodDoGierki/model.java" />
+        <option value="$PROJECT_DIR$/src/zajecia1/samochodDoGierki/Controller.java" />
+        <option value="$PROJECT_DIR$/src/zajecia1/samochodDoGierki/Wheel.java" />
+        <option value="$PROJECT_DIR$/src/zajecia1/samochodDoGierki/Engine.java" />
+        <option value="$PROJECT_DIR$/src/zajecia1/samochodDoGierki/truck.java" />
+        <option value="$PROJECT_DIR$/src/zajecia1/samochodDoGierki/Main.java" />
+        <option value="$PROJECT_DIR$/src/zajecia1/samochodDoGierki/Car.java" />
+        <option value="$PROJECT_DIR$/src/zajecia1/samochodDoGierki/Track.java" />
+        <option value="$PROJECT_DIR$/src/Zajecia2/tablepaint.java" />
+        <option value="$PROJECT_DIR$/src/Zajecia2/animal.java" />
+        <option value="$PROJECT_DIR$/src/Zajecia2/parrot.java" />
+        <option value="$PROJECT_DIR$/src/Zajecia2/Parrot.java" />
+        <option value="$PROJECT_DIR$/src/Zajecia2dziedizczenie/Elephant.java" />
+        <option value="$PROJECT_DIR$/src/Zajecia2dziedizczenie/Animal.java" />
+        <option value="$PROJECT_DIR$/src/Zajecia2dziedizczenie/Parrot.java" />
+        <option value="$PROJECT_DIR$/src/Zajecia2dziedziczenie/Main.java" />
+        <option value="$PROJECT_DIR$/src/Zajecia2dziedziczenie/Animal.java" />
+        <option value="$PROJECT_DIR$/src/Zajecia2dziedziczenie/Elephant.java" />
+        <option value="$PROJECT_DIR$/src/Zajecia2dziedziczenie/Parrot.java" />
+        <option value="$PROJECT_DIR$/src/Zajecia2dziedziczenie/Zoo.java" />
+        <option value="$PROJECT_DIR$/src/ZooKolekcje/Zoo.java" />
+        <option value="$PROJECT_DIR$/src/ZooKolekcje/Animal.java" />
+        <option value="$PROJECT_DIR$/src/ZooKolekcje/ELEPHANT.java" />
+        <option value="$PROJECT_DIR$/src/ZooKolekcje/Parrot.java" />
+        <option value="$PROJECT_DIR$/src/ZooKolekcje/Main.java" />
+        <option value="$PROJECT_DIR$/src/wyjatkiTryCatch/WyjatkiTryCatch.java" />
+        <option value="$PROJECT_DIR$/src/wyjatkiTryCatch/Main.java" />
+        <option value="$PROJECT_DIR$/src/ZooKolekcje/Human.java" />
+        <option value="$PROJECT_DIR$/src/wyjatkiTryCatch/calculate.java" />
+        <option value="$PROJECT_DIR$/src/Interface/Motorowka.java" />
+        <option value="$PROJECT_DIR$/src/Payment/PaymentGetwayException.java" />
+        <option value="$PROJECT_DIR$/src/Payment/PaymentGetway.java" />
+        <option value="$PROJECT_DIR$/src/Payment/OrderLine.java" />
+        <option value="$PROJECT_DIR$/src/Payment/CreditCardGatewaqy.java" />
+        <option value="$PROJECT_DIR$/src/Payment/Example.java" />
+        <option value="$PROJECT_DIR$/src/Payment/PaymentGetwey2.java" />
+        <option value="$PROJECT_DIR$/src/Payment/ShoppingCart.java" />
+        <option value="$PROJECT_DIR$/src/Payment/Paymentmetody.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="267" />
+    <option name="y" value="36" />
+    <option name="width" value="1022" />
+    <option name="height" value="726" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaZawansowana" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaZawansowana" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaZawansowana" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaZawansowana" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaZawansowana" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaZawansowana" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Payment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaZawansowana" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaZawansowana" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="wyjatkiTryCatch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaZawansowana" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaZawansowana" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="zajecia1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaZawansowana" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaZawansowana" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="zajecia1" type="462c0819:PsiDirectoryNode" />
+              <item name="newroom" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaZawansowana" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaZawansowana" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="zajecia1" type="462c0819:PsiDirectoryNode" />
+              <item name="samochodDoGierki" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaZawansowana" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaZawansowana" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Zajecia2dziedziczenie" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaZawansowana" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaZawansowana" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ZooKolekcje" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="setting&#9;ACTION&#9;Database.Settings&#10;font&#9;ACTION&#9;JumpToColorsAndFonts" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551381156409" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../metodyplatnosci/zoo/JavaZawansowana.zip" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (3)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zajecia1.samochodDoGierki.Main" />
+      <module name="JavaZawansowana" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zajecia1.samochodDoGierki.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ZooKolekcje.Main" />
+      <module name="JavaZawansowana" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ZooKolekcje.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wyjatkiTryCatch.Main" />
+      <module name="JavaZawansowana" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wyjatkiTryCatch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zajecia2dziedziczenie.Main" />
+      <module name="JavaZawansowana" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Zajecia2dziedziczenie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zajecia2dziedziczenie.Main" />
+      <module name="JavaZawansowana" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ZooKolekcje.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="calculate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wyjatkiTryCatch.calculate" />
+      <module name="JavaZawansowana" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wyjatkiTryCatch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.calculate" />
+      <item itemvalue="Application.Main (3)" />
+      <item itemvalue="Application.Main (4)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.calculate" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c039bd9e-4cf3-4382-a6d3-06368d5d3e1e" name="Default Changelist" comment="" />
+      <created>1551113145602</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551113145602</updated>
+      <workItem from="1551113150270" duration="10928000" />
+      <workItem from="1551197839886" duration="10625000" />
+      <workItem from="1551284677358" duration="8186000" />
+      <workItem from="1551370843128" duration="5874000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add code to track, Main">
+      <created>1551200820461</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1551200820461</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add commit explain move to Main">
+      <created>1551201428907</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1551201428907</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Dodane komentarze w Car">
+      <created>1551202885272</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1551202885272</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Dodanie komentarza do Track">
+      <created>1551203458022</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1551203458022</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Wymiana implementacji toString na Stringbuilder w klasie Track">
+      <created>1551204228356</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1551204228356</updated>
+    </task>
+    <task id="LOCAL-00006" summary="zmiana w StringBuilder">
+      <created>1551204859683</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1551204859683</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="35613000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.1722365" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.3526245" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.48828125" />
+      <window_info anchor="bottom" id="Messages" order="8" visible="true" weight="0.2139973" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.16836734" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.20294599" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.48828125" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.04418985" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add code to track, Main" />
+    <MESSAGE value="Add commit explain move to Main" />
+    <MESSAGE value="Dodane komentarze w Car" />
+    <MESSAGE value="Dodanie komentarza do Track" />
+    <MESSAGE value="Wymiana implementacji toString na Stringbuilder w klasie Track" />
+    <MESSAGE value="zmiana w StringBuilder" />
+    <MESSAGE value="java pay methody" />
+    <option name="LAST_COMMIT_MESSAGE" value="java pay methody" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/zajecia1/modelowanie1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zajecia1/newroom/NewRoom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zajecia1/samochodDoGierki/Wheel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../GitGroup/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zajecia1/samochodDoGierki/Engine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zajecia1/newroom/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6">
+          <caret line="12" column="50" lean-forward="true" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zajecia1/samochodDoGierki/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="11" selection-start-line="2" selection-start-column="3" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zajecia1/samochodDoGierki/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zajecia1/samochodDoGierki/Track.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Zajecia2dziedziczenie/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zajecia1/samochodDoGierki/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="54" column="9" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Zajecia2dziedziczenie/Parrot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZooKolekcje/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZooKolekcje/ELEPHANT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZooKolekcje/Parrot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZooKolekcje/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="50" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZooKolekcje/Zoo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wyjatkiTryCatch/WyjatkiTryCatch.java" />
+    <entry file="file://$PROJECT_DIR$/src/ZooKolekcje/Human.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Zajecia2dziedziczenie/Elephant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Zajecia2dziedziczenie/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wyjatkiTryCatch/calculate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wyjatkiTryCatch/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interface/Motorowka.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Payment/PaymentGetway.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Payment/ShoppingCart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Payment">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Payment</OriginalElement>
+          <nodes>
+            <node x="230.0" y="246.0">Payment.PaymentGetwey2</node>
+            <node x="437.0" y="69.0">Payment.Paymentmetody</node>
+            <node x="41.00000000000003" y="80.0">Payment.ShoppingCart</node>
+            <node x="182.00000000000003" y="75.0">Payment.CreditCardGatewaqy</node>
+            <node x="-114.0" y="-9.0">Payment.OrderLine</node>
+            <node x="133.12500000000006" y="188.0">Payment.Example</node>
+            <node x="201.20833333333337" y="-55.0">Payment.PaymentGetway</node>
+            <node x="-31.0" y="244.0">Payment.PaymentGetwayException</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="Payment.ShoppingCart" target="Payment.PaymentGetway">
+              <point x="40.333333333333314" y="-14.5" />
+              <point x="125.83333333333334" y="54.0" />
+              <point x="214.54166666666669" y="54.0" />
+              <point x="-44.666666666666664" y="14.5" />
+            </edge>
+            <edge source="Payment.ShoppingCart" target="Payment.OrderLine">
+              <point x="-40.33333333333334" y="-14.5" />
+              <point x="45.166666666666686" y="54.0" />
+              <point x="50.0" y="54.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="Payment.Example" target="Payment.OrderLine">
+              <point x="-38.33333333333337" y="-14.5" />
+              <point x="141.79166666666669" y="148.0" />
+              <point x="14.500000000000028" y="148.0" />
+              <point x="14.500000000000028" y="54.0" />
+              <point x="16.666666666666657" y="54.0" />
+              <point x="-33.33333333333334" y="14.5" />
+            </edge>
+            <edge source="Payment.Example" target="Payment.Paymentmetody">
+              <point x="38.333333333333314" y="-14.5" />
+              <point x="218.45833333333337" y="148.0" />
+              <point x="412.0" y="148.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="Payment.Example" target="Payment.CreditCardGatewaqy">
+              <point x="7.666666666666657" y="-14.5" />
+              <point x="187.79166666666669" y="128.0" />
+              <point x="244.50000000000003" y="128.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="Payment.Example" target="Payment.ShoppingCart">
+              <point x="-23.0" y="-14.5" />
+              <point x="157.12500000000006" y="138.0" />
+              <point x="55.25000000000003" y="138.0" />
+              <point x="-30.25" y="14.5" />
+            </edge>
+            <edge source="Payment.Example" target="Payment.PaymentGetway">
+              <point x="23.0" y="-14.5" />
+              <point x="203.12500000000006" y="138.0" />
+              <point x="333.5" y="138.0" />
+              <point x="333.5" y="54.0" />
+              <point x="303.875" y="54.0" />
+              <point x="44.666666666666664" y="14.5" />
+            </edge>
+            <edge source="Payment.CreditCardGatewaqy" target="Payment.PaymentGetway">
+              <point x="0.0" y="-14.5" />
+              <point x="244.50000000000003" y="54.0" />
+              <point x="259.20833333333337" y="54.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-210.5" y="59.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Payment/Example.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="36" lean-forward="true" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Payment/PaymentGetwey2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Payment/Paymentmetody.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Payment/CreditCardGatewaqy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Payment/OrderLine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Payment/PaymentGetwayException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
