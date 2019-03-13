@@ -16,4 +16,4 @@ public class DownloadManagerFactory {
 }
 // socket - sczytuje streamy, wspiera to system operacyjny
 //
-// przekierowania mozna robic z http client apache
+// przekierowania mozna robic z http client apache 
