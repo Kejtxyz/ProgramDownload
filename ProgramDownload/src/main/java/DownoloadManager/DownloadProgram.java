@@ -12,7 +12,7 @@ public class DownloadProgram {
     public DownloadProgram(Path downoloadDirectory) {
         this.downoloadDirectory = downoloadDirectory;
     }
-
+// pobieranie
     private Path downoloadDirectory =
 
     public void download(URL  fileUrl){
